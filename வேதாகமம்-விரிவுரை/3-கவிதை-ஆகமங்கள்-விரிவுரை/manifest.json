@@ -1,0 +1,22 @@
+{
+  "name": "கவிதை ஆகமங்கள் விரிவுரை",
+  "short_name": "விரிவுரை கவிதை ஆகமங்கள்",
+  "description": "கவிதை ஆகமங்கள் விரிவுரை - Tamil Bible Commentary Poetry Books, from www.wordofgod.in",
+  "start_url": "/good-news-collections/வேதாகமம்-விரிவுரை/3-கவிதை-ஆகமங்கள்-விரிவுரை/",
+  "scope": "/good-news-collections/வேதாகமம்-விரிவுரை/3-கவிதை-ஆகமங்கள்-விரிவுரை/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "/good-news-collections/வேதாகமம்-விரிவுரை/3-கவிதை-ஆகமங்கள்-விரிவுரை/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/good-news-collections/வேதாகமம்-விரிவுரை/3-கவிதை-ஆகமங்கள்-விரிவுரை/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

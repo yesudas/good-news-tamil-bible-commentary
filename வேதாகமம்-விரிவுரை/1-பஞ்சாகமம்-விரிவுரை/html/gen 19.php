@@ -1,0 +1,72 @@
+<?php
+     $version = '2025.01';
+?>
+<!DOCTYPE html>
+<html lang="ta">
+<?php include '../header.php'; ?>
+
+<body>
+<?php include '../menu.php'; ?>
+
+<center>
+<img src="../assets/gen 19.gif">
+<br>
+<img src="../assets/gen 19-1.gif">
+<br>
+<img src="../assets/gen 19-2.gif">
+<br>
+<img src="../assets/gen 19-3.gif">
+<br>
+<img src="../assets/gen 19-4.gif">
+<br>
+<img src="../assets/gen 19-5.gif">
+<br>
+<img src="../assets/gen 19-6.gif">
+<br>
+<img src="../assets/gen 19-7.gif">
+<br>
+<img src="../assets/gen 19-8.gif">
+<br>
+<img src="../assets/gen 19-9.gif">
+<br>
+<img src="../assets/gen 19-10.gif">
+<br>
+<img src="../assets/gen 19-11.gif">
+<br>
+<img src="../assets/gen 19-12.gif">
+<br>
+<img src="../assets/gen 19-13.gif">
+<br>
+<img src="../assets/gen 19-14.gif">
+<br>
+<img src="../assets/gen 19-15.gif">
+<br>
+<img src="../assets/gen 19-16.gif">
+<br>
+<img src="../assets/gen 19-17.gif">
+<br>
+<img src="../assets/gen 19-18.gif">
+<br>
+<img src="../assets/gen 19-19.gif">
+<br>
+<img src="../assets/gen 19-20.gif">
+<br>
+</center>
+<p align="center">
+<table>
+<th><a href="../html/bible.php?v=<?php echo $version; ?>"><img src="../assets/gnp-home.gif" border=0>
+<th><a href="../html/chart1.php?v=<?php echo $version; ?>"><img src="../assets/alpha.gif" border=0>
+<th><a href="../html/head1.php?v=<?php echo $version; ?>"><img src="../assets/alpha1.gif" border=0>
+
+<th><a href="../html/gen 18.php?v=<?php echo $version; ?>"><img src="../assets/arrow-left.png"></a> 
+<th><a href="../html/gen 20.php?v=<?php echo $version; ?>"><img src="../assets/arrow-right.png"></a>
+<?php include '../bgsound.php'; ?>
+
+</table>
+</src>
+</p>
+</table>
+<?php include '../footer.php'; ?>
+</body>
+
+</html>

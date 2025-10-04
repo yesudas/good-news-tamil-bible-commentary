@@ -1,0 +1,22 @@
+{
+  "name": "சுவிசேஷ ஆகமங்கள் விரிவுரை",
+  "short_name": "விரிவுரை சுவிசேஷ ஆகமங்கள்",
+  "description": "சுவிசேஷ ஆகமங்கள் விரிவுரை - Tamil Bible Commentary The Gospel Books, from www.wordofgod.in",
+  "start_url": "/good-news-collections/வேதாகமம்-விரிவுரை/5-சுவிசேஷ-ஆகமங்கள்-விரிவுரை/",
+  "scope": "/good-news-collections/வேதாகமம்-விரிவுரை/5-சுவிசேஷ-ஆகமங்கள்-விரிவுரை/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "/good-news-collections/வேதாகமம்-விரிவுரை/5-சுவிசேஷ-ஆகமங்கள்-விரிவுரை/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/good-news-collections/வேதாகமம்-விரிவுரை/5-சுவிசேஷ-ஆகமங்கள்-விரிவுரை/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
